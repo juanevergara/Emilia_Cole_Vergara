@@ -1,0 +1,60 @@
+.header{
+    list-style: none;
+    line-height: 2.0;
+    width: 50px;
+}
+
+.home_body {
+    background-image: URL(../img/home.jpg);
+    background-position:right; 
+    background-color: white;
+    background-repeat: no-repeat;
+    background-size: 76%;
+    background-attachment: scroll;
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+
+.list_home {
+    color: dimgrey;
+    text-decoration: none;
+
+}
+
+.list_about {
+    color: dimgrey; 
+    text-decoration: none
+}
+
+.list_music{
+    color: dimgrey;
+    text-decoration: none
+}
+
+.list_contact {
+    color: dimgrey;
+    text-decoration: none
+}
+
+.EMILIA_COLE {
+    color:rgb(78, 78, 78);
+    margin-top: 130px;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 25px;
+    margin-bottom: 100px ;
+}
+
+.frase {
+    font-family: 'Raleway', sans-serif;
+    font-size: 30px;
+    background-color: rgba(240, 248, 255, 0.374);
+}
+
+.redes_sociales {
+    margin-left: 40px;
+}
+a {
+    color: black;
+    text-decoration: none;
+}
